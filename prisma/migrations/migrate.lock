@@ -1,0 +1,18 @@
+# IF THERE'S A GIT CONFLICT IN THIS FILE, DON'T SOLVE IT MANUALLY!
+# INSTEAD EXECUTE `prisma migrate fix`
+# Prisma Migrate lockfile v1
+# Read more about conflict resolution here: TODO
+
+20200423231748-addingnew-schema
+20200512190529-adding-channel-public-field
+20200512191114-adding-default-in-public
+20200512192556-adding-uniue-in-channe-l
+20200512194400-delteing-uniqe
+20200518211513-adding-unique-field-id-to-memebert
+20200518231554
+20200518231854-adding-direccct-message
+20200518233148-reverting-back-member-id
+20200519001008-adding-uiwuq-to-member
+20200519134120-adding-field-id-in-member
+20200519140853-reverting-changes-of-member
+20200521232652-chaning-name-of-direct-message
